@@ -16,15 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Bridge",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
 			"Name": "Fab",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
