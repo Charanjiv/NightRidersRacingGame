@@ -14,24 +14,6 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
-		},
-		{
-			"Name": "Fab",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
 		}
 	]
 }
